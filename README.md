@@ -4,6 +4,11 @@
 
     pip install -r requirements.txt
 
+## Run
+
+    pelican content
+    cd output && python -m pelican.server
+
 ## Build an output
 
     pelican -s pelicanconf.py
