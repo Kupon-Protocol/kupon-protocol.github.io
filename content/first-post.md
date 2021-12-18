@@ -27,7 +27,7 @@ Initially just the native chain token, but later own NFT issuers will be able to
 
 ### Is there a demo I can try out?
 
-A simple demo (Kupon v1) has been built for a recent hackathon. You can see it here: [https://kupon-protocol.netlify.app/](https://kupon-protocol.netlify.app/).
+A simple demo (Kupon v1) has been built for a recent hackathon. You can see it here: [https://app.kupon.network/](https://app.kupon.network/).
 
 You can use it on either the Mumbai testnet (Polygon's testnet) or on the Ropsten testnet. If you'll use Mumbai, get some free testnet MATIC tokens here: [https://faucet.polygon.technology/](https://faucet.polygon.technology/). 
 
@@ -35,6 +35,6 @@ You can use it on either the Mumbai testnet (Polygon's testnet) or on the Ropste
 
 No matter what skills you have you can join the Kupon Protocol community and be an active member if you want. You can either help with design, development, marketing, community building, or just provide feedback and ideas on the protocol itself.
 
-Join the Kupon Discord server here: ​​[https://discord.gg/TjTZaCZ4wY](https://discord.gg/TjTZaCZ4wY). 
+Join the Kupon Discord server here: [https://discord.gg/TjTZaCZ4wY](https://discord.gg/TjTZaCZ4wY). 
 
 Check the Kupon GitHub repositories here: [https://github.com/Kupon-Protocol](https://github.com/Kupon-Protocol). 

@@ -7,13 +7,8 @@
 ## Run
 
     pelican content
-    cd output && python -m pelican.server
+    pelican --listen
 
-## Build an output
+## Deployment
 
-    pelican -s pelicanconf.py
-
-## Push to GH Pages
-
-    ghp-import output
-    git push git@github.com:kupon-protocol/kupon-protocol.github.io.git gh-pages:master
+Push to the main branch and GitHub Actions will deploy the page to GH Pages.
