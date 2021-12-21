@@ -7,7 +7,7 @@ a {
 
 a:hover {
   font-family: 'Nunito', sans-serif;
-  color: white;
+  color: #FC4A1A;
   text-decoration: none
 }
 
@@ -61,6 +61,10 @@ hr {
 
 label {
   color: #FFFFFF;
+}
+
+p > a {
+  color: #FC4A1A;
 }
 
 p, li {
